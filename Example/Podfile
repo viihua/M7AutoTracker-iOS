@@ -1,0 +1,12 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'M7AutoTracker_Example' do
+  pod 'M7AutoTracker', :path => '../'
+
+  target 'M7AutoTracker_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
