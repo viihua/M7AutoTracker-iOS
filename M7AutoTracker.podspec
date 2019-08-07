@@ -22,7 +22,7 @@ s.description      = '无埋点方案主要依靠AOP（Aspect Oriented Programmi
 s.homepage         = 'https://github.com/DevMan7/M7AutoTracker-iOS'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
-s.author           = { 'wanghailiang' => '361208971@qq.com' }
+s.author           = { 'Man7' => '361208971@qq.com' }
 s.source           = { :git => 'https://github.com/DevMan7/M7AutoTracker-iOS.git', :tag => 'v' + s.version.to_s }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
